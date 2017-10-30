@@ -22,7 +22,7 @@ Build a predictive model on R to forecast price of cars based on certain attribu
 
 Target variable - price
 
-## Comparison of results obtained by different models
+## Comparison of results(RMSEs) obtained by different models
 - MLR Stepwise : 8641
 - MLR on Lasso variables : 8893
 - Random Forest and Bagging : 7065
